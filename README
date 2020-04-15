@@ -1,1 +1,12 @@
 DESCRIPTION OF FILES IN REPOSITORY:
+
+Account Screenshot and 2: These are the screenshots of my azure account with my username visible. The first one is the Azure account page and then the second is my home page where you can see the cluster and storage that I spun up
+
+Output Screenshot and Output.txt: Output screenshot is the screenshot from the Azure command prompt with the image of the output after running WordCount. The text file is all of the results from running it saved into a file if you would like to see it.
+
+Word Count on Azure and 2: These are the screenshots where you can see the commands and the output of running WordCound on my cluster.
+
+LINK TO INPUT FILE ON ONEDRIVE: 
+You will have to log in to see the file. It is 118.5 MB
+
+https://pitt-my.sharepoint.com/:t:/g/personal/bcg36_pitt_edu/EfK2y8bTF5tOh6KPsZyAUF8BJap5hmIgIWcqlqx2nBJ_0Q?e=J5Xv9L
